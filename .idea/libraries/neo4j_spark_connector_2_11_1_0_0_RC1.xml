@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="neo4j-spark-connector_2.11-1.0.0-RC1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/neo4j-spark-connector_2.11-1.0.0-RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

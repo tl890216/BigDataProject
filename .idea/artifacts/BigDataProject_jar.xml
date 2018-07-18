@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BigDataProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BigDataProject_jar</output-path>
+    <root id="archive" name="BigDataProject.jar">
+      <element id="module-output" name="BigDataProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/neo4j-spark-connector_2.11-1.0.0-RC1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
